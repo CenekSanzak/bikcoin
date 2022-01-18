@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bikcoin/static/css/main.48283849.css",
+    "main.js": "/bikcoin/static/js/main.f3cd6449.js",
+    "static/js/787.5250d270.chunk.js": "/bikcoin/static/js/787.5250d270.chunk.js",
+    "index.html": "/bikcoin/index.html",
+    "main.48283849.css.map": "/bikcoin/static/css/main.48283849.css.map",
+    "main.f3cd6449.js.map": "/bikcoin/static/js/main.f3cd6449.js.map",
+    "787.5250d270.chunk.js.map": "/bikcoin/static/js/787.5250d270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48283849.css",
+    "static/js/main.f3cd6449.js"
+  ]
+}
